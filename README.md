@@ -1,5 +1,5 @@
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Aneeq Shahid</h1>
 <h3 align="center">A passionate Data Analyst and frontend developer</h3>
